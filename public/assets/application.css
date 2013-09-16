@@ -4138,7 +4138,7 @@ body {
 }
 /* line 205, ../../app/assets/stylesheets/_main.scss */
 #wrapper #gallery {
-  height: 405px;
+  height: 435px;
   overflow: hidden;
   width: 100%;
   margin-bottom: 32px;
@@ -4153,7 +4153,7 @@ body {
 }
 /* line 215, ../../app/assets/stylesheets/_main.scss */
 #wrapper #gallery .slides .item {
-  height: 405px;
+  height: 435px;
   float: left;
   position: relative;
 }

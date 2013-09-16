@@ -68,7 +68,7 @@ var main = {
           function() {
             $('.actual').removeClass('actual');
             current = 0;
-            $($('.item')[current]).addClass('actual');
+            paralaxAnimate($($('.item')[current]).addClass('actual'), false);
           }
         );
       }else{
